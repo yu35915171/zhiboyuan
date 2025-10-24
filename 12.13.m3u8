@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 ,咪咕4K-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226938/1.m3u8
@@ -232,3 +231,4 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227413/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226754/1.m3u8
 #EXTINF:-1 ,芒果TV.信源检修中
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226955/1.m3u8
+
